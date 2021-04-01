@@ -1,5 +1,5 @@
 /* cell padding */
-th, td { padding: 5px; }
+th, td { padding: 6px; }
 
 /* cell spacing */
 table { border-collapse: separate; border-spacing: 5px; } /* cellspacing="5" */
